@@ -67,7 +67,7 @@ Node.js installed on your machine
 
 4. Run the script by executing the following command in the terminal:
 
-```node random_details_generator.js```
+```node generate_random_details.js```
 
 5. The script will generate the random details and save them to a file named random_details.csv in the same directory.
 
